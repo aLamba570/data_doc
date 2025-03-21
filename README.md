@@ -26,6 +26,3 @@ https://www.kaggle.com/neelima98/disease-prediction-using-machine-learning
 
 ### ***Go to the [Readme.pdf](Readme.pdf) file for detailed information about the project & screenshots.***
 and if you like this project, do give it a "Star" Thank you..
-# data_doc
-# data_doc
-# data_doc
