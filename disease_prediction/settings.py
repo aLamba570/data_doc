@@ -83,7 +83,8 @@ DATABASES = {
         'NAME': 'predico',
         'USER': 'postgres',
         'PASSWORD': 'root',
-        'HOST': 'localhost'
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
