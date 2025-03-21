@@ -4,3 +4,4 @@ joblib
 scikit-learn
 psycopg2
 numpy
+dj_database_url
